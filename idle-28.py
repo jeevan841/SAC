@@ -1,0 +1,10 @@
+f = open("thetest.txt")#f = open("thetest.txt","r") is a default 
+print("read methord:")
+print(f.read(5))
+f.seek(0)
+print("read lines methord:")
+print(f.readline(9))
+f.seek(0)
+print("read lines methord:")
+print(f.readlines())
+f.close()
