@@ -1,19 +1,19 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+In[1]:
 
 
 import numpy
 
 
-# In[2]:
+In[2]:
 
 
 array_shape = numpy.array([[10,20,30],[40,50,60]])
 
 
-# In[3]:
+In[3]:
 
 
 array_shape.shape
